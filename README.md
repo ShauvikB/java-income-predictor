@@ -1,2 +1,3 @@
 # java-income-predictor
-Java income predictor 
+java income predictor
+Main Java Class -> PredictIncomeMain.java
