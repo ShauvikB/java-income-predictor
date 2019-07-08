@@ -54,6 +54,7 @@ public class PredictIncomeMain {
 		});
 
 	}
+	
 
 	/**
 	 * @param year
