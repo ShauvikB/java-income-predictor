@@ -18,7 +18,7 @@ import com.cts.iiht.fsd.model.Report;
  * Predict the income over a period of time. This would generate incomereport,
  * deduction report and prediction report also.
  * 
- * @author arunds
+ * 
  */
 public class PredictIncome {
 
